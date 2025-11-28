@@ -3,8 +3,6 @@
 My name is TheLogicalFounder, I'm a beginner Game-Developer on Godot.
 Greatly inspired by @Yum-Muy
 
-### Some infos about me
-
 - 🔭 I’m currently working on an Undertale Framework and I'm helping other game-development teams aswell.
 - 📚 I know GDScript and some Python, I look forward to learning Java, Javascript and C#.
 - 📫 At the moment, you can reach me via Discord: `thelogicalfounder`
