@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there! 👋
+
+My name is TheLogicalFounder, I'm a beginner Game-Developer on Godot.
+
+- 🔭 I’m currently working on an Undertale Framework and I'm helping other game-development teams aswell.
+- 📚 I know GDScript and some Python, I look forward to learning Java, Javascript and C#.
+- 📫 At the moment, you can reach me via Discord: `thelogicalfounder`
 
 <!--
 **TheLogicalFounder/TheLogicalFounder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
